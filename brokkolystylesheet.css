@@ -1,0 +1,27 @@
+.sampleStyleReference{
+	font-family: : Veranda, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 12pt;
+	color: #00FF00;
+}
+.announcementStyle{
+	font-family: : Veranda, Arial, Helvetica, sans-Serif;
+	font-weight: bold;
+	font-size: 36pt;
+	color: #FF0000;
+}
+.menuButtonTextStyle{
+	font-family: : sans-serif, Helvetica, Arial, Veranda;
+	font-weight: bold;
+	font-size: 14pt;
+	color:rgb(0,128,64);
+}
+p{
+	width:80%;
+}
+body{
+	width:=30cm;
+	padding-left: =100px;
+	padding-right: =100px;
+
+}
